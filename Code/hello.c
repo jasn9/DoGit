@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+void doBranchingConflict();
+
 int main()
 {
 	int doSomething = 100;
@@ -19,3 +21,7 @@ void doBranching() {
 
 }
 
+void doBranchingConflict()
+{
+	printf("Learning Conflict");
+}
