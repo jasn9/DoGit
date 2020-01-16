@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+void doBranchingInMaster();
+
 int main()
 {
 	int doSomething = 100;
@@ -9,7 +11,7 @@ int main()
 	return 0;
 }
 
-void doSomething() {
+void doBranchingInMaster() {
 	
 }
 
