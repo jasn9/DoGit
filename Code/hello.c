@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void doBranchingInMaster();
+void doBranchingConflict();
 
 int main()
 {
@@ -21,3 +22,7 @@ void doBranching() {
 
 }
 
+void doBranchingConflict()
+{
+	printf("Learning Conflict");
+}
