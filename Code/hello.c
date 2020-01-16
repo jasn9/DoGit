@@ -7,3 +7,7 @@ int main()
 	printf("Hello ken\n");
 	return 0;
 }
+
+void doSomething() {
+	
+}
